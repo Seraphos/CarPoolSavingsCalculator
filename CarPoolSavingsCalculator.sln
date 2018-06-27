@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPoolSavingsCalculator", "CarPoolSavingsCalculator\CarPoolSavingsCalculator.csproj", "{6398CFD6-361B-4F2E-8FE7-DC2472963FA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6398CFD6-361B-4F2E-8FE7-DC2472963FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6398CFD6-361B-4F2E-8FE7-DC2472963FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6398CFD6-361B-4F2E-8FE7-DC2472963FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6398CFD6-361B-4F2E-8FE7-DC2472963FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A4EEFE0-BA2C-47DF-B8F6-13D12499898D}
+	EndGlobalSection
+EndGlobal
